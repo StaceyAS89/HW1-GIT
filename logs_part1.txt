@@ -1,0 +1,18 @@
+706c237 (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{0}: merge develop: Fast-forward
+5a0f76c HEAD@{1}: checkout: moving from feature2 to master
+706c237 (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{2}: merge develop: Fast-forward
+7af608f (origin/feature2) HEAD@{3}: checkout: moving from feature1 to feature2
+706c237 (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{4}: merge develop: Fast-forward
+3f4409a (origin/feature1) HEAD@{5}: checkout: moving from develop to feature1
+706c237 (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{6}: commit (merge): test
+3f4409a (origin/feature1) HEAD@{7}: merge feature1: Fast-forward
+73e7d03 (origin/develop) HEAD@{8}: checkout: moving from feature2 to develop
+7af608f (origin/feature2) HEAD@{9}: commit: style.css added
+73e7d03 (origin/develop) HEAD@{10}: checkout: moving from develop to feature2
+73e7d03 (origin/develop) HEAD@{11}: checkout: moving from feature1 to develop
+3f4409a (origin/feature1) HEAD@{12}: commit: index.html two pictures added
+148a625 HEAD@{13}: commit: two pictured added
+73e7d03 (origin/develop) HEAD@{14}: checkout: moving from develop to feature1
+73e7d03 (origin/develop) HEAD@{15}: commit: add index.html
+5a0f76c HEAD@{16}: checkout: moving from master to develop
+5a0f76c HEAD@{17}: commit (initial): First commit
